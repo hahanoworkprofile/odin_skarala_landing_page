@@ -5,3 +5,8 @@ Oh well, it is an open source CSS library! Yep, a library! It is compact and use
 # Documentations
 
 Work in progress
+
+# Notes
+
+Above are just non-sense, this is just a fake landing page.
+Yes, I used bad practices and all. The idea of flexbox still didn't click when I was doing this ( still doesn't click even know lol heck, can't we have an actual ok-cool-ez styling language??? )
